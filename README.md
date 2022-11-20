@@ -8,3 +8,8 @@ Prerequisites
 -   Dev Container extension (ms-vscode-remote.remote-containers)
 -   Docker
 -   Git
+
+Keep in mind
+
+-   Make sure you set unused port in 'devcontainer.json' and 'docker_compose.yml'
+-   Make sure you have LF ending set in the VS Code (see right bottom option)
