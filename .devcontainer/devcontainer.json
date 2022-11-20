@@ -9,7 +9,8 @@
                 "dbaeumer.vscode-eslint",
                 "esbenp.prettier-vscode",
                 "msjsdiag.vscode-react-native",
-                "pkief.material-icon-theme"
+                "pkief.material-icon-theme",
+                "bradlc.vscode-tailwindcss"
             ]
         }
     },
