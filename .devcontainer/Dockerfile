@@ -5,7 +5,7 @@ WORKDIR /app
 RUN mkdir product
 RUN mkdir scripts
 
-RUN apk update && \
-    apk add git
+# RUN apk update && \
+#     apk add git
 
 COPY scripts scripts
